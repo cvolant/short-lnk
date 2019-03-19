@@ -40,7 +40,7 @@
     text-transform: none;
 }
 
-@-moz-document url-prefix() {
+/* @-moz-document url-prefix() {
     .button {
         padding:  ($input-spacing + 0.2rem) $input-spacing  ($input-spacing - 0.2rem) $input-spacing !important;
     }
@@ -50,4 +50,4 @@
     .button--link {
         padding: .3rem .8rem !important;
     }
-  }
+  } */
